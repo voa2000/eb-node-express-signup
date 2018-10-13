@@ -2,5 +2,5 @@
   "AWS_REGION": "us-east-1",
   "STARTUP_SIGNUP_TABLE": "viv-signup-table
 ",
-  "NEW_SIGNUP_TOPIC": ""
+  "NEW_SIGNUP_TOPIC": "arn:aws:sns:us-east-1:431433532695:viv-signup-notifications"
 }
