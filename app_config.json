@@ -1,5 +1,6 @@
 { 
-  "AWS_REGION": "",
-  "STARTUP_SIGNUP_TABLE": "",
+  "AWS_REGION": "us-east-1",
+  "STARTUP_SIGNUP_TABLE": "viv-signup-table
+",
   "NEW_SIGNUP_TOPIC": ""
 }
